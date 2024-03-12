@@ -1,9 +1,9 @@
 /* reset template */
 * {
-    box-sizing: border-box;
+    /* box-sizing: border-box;
     margin: 0;
     padding: 0;
-    font: inherit;
+    font: inherit; */
 }
 
 body {
@@ -31,17 +31,61 @@ p {
     line-height: 1.5rem;
 }
 
-img,
+/* img,
 picture,
 svg,
 video {
     max-width: 100%;
     display: block; 
     height: auto; 
-}
+} */
 
 button,
 input,
 form {
     font: inherit;
 }
+
+
+/* til event listener lille opgave med billen */
+/* article {
+    width: 70%;
+    box-sizing: border-box;
+    margin: 0 auto;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.1);
+    padding: 2rem;
+  }
+  
+  img {
+    max-width: 100%;
+  }
+  
+  nav ul {
+    display: flex;
+    gap: 0.5rem;
+    padding: 0;
+    list-style: none;
+  }
+  
+  nav a {
+    color: black;
+    text-decoration: none;
+    background: orange;
+    color: white;
+    display: block;
+    padding: 1rem;
+    transition: all 0.3s;
+  }
+  
+  nav a:hover {
+    background: #ffd580;
+    color: #444;
+  }
+  
+  .hide {
+    display: none;
+  }
+   */
+
+
+/* modal opgave */
